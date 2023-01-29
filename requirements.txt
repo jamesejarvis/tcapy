@@ -1,4 +1,4 @@
-arctic==1.79.4
+arctic==1.79.2
 celery==5.0.5
 chartpy==0.1.8
 dash==2.7.1
@@ -15,7 +15,7 @@ Jinja2==3.1.2
 multiprocess==0.70.14
 numba==0.56.4
 numpy==1.23.5
-pandas==1.5.3
+pandas==1.1.5
 pathos==0.3.0
 pdfkit==0.6.1
 plotly==5.13.0
